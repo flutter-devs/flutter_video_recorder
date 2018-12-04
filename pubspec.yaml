@@ -1,0 +1,36 @@
+name: flutter_video_recorder_app
+description: A new Flutter Video Recorder application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  camera: ^0.2.6
+  path_provider: ^0.4.1
+  video_player: ^0.7.2
+  image_picker: ^0.4.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+      - assets/images/ic_flutter_devs_logo.png
+      - assets/images/ic_powered_by.png
+      - assets/images/ic_switch_camera_3.png
+      - assets/images/ic_no_video.png
+      - assets/images/ic_play.png
+      - assets/images/ic_stop_video.png
+      - assets/images/ic_video_shutter.png
+
