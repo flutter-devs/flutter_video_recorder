@@ -21,7 +21,7 @@ packages:
       name: camera
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.6"
+    version: "0.2.9+1"
   charcode:
     dependency: transitive
     description:
@@ -59,7 +59,7 @@ packages:
       name: image_picker
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.4.10"
+    version: "0.4.12+1"
   matcher:
     dependency: transitive
     description:
